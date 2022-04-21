@@ -7,3 +7,5 @@ Windows Backup Script for an Entire Directory
 set "source=C:\Users\..."
 set "destination=C:\Users\..."
 ```
+
+# Discord: JuniorJacki#8126
